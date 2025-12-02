@@ -1,0 +1,1 @@
+{"number":"singular","lemma":"rsa_pkcs1_sha1","lemmaPos":"noun","definitions":["Egy kriptográfiai algoritmus, amely az RSA titkosítást és a PKCS#1 szabványt használja SHA-1 hash algoritmussal."],"examples":["Az rsa_pkcs1_sha1 algoritmust használják digitális aláírásokhoz."],"synonyms":["RSA-SHA1","PKCS#1 SHA-1"],"transcript":"ˈɛrɛʃˌpeːkaːˈɛʃˌʃaːˈɛɒn"}
